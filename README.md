@@ -3,7 +3,7 @@
 🎓 Currently pursuing B.Tech in Computer Science.<br>
 💡 Always open to learning, collaborating, and tackling new challenges.
 
-🔭 I’m currently working on: JIT Learning System – an academic platform for students and teachers.<br>
+🔭 I’m currently working on: LMS – an academic platform for students and teachers.<br>
 👯 I’m looking to collaborate on MERN stack projects, React apps, or open-source contributions.<br>
 🤝 I’m looking for help with performance optimization and advanced backend patterns.<br>
 🌱 I’m currently learning Next.js, TypeScript, and system design.<br>
@@ -19,10 +19,10 @@
 
 ## 🚀 Featured Projects:
 
-### 📘 [JIT Learning System](https://github.com/abhishekkalme/jit-learning-system)
+### 📘 [LMS](https://github.com/abhishekkalme/jit-learning-system)
 > A complete academic platform for students to upload and access notes, built with MERN stack.
 
-### 🎬 [TMDB Movie App](https://github.com/abhishekkalme/movie-app)
+### 🎬 [TMDB Movie App](https://github.com/abhishekkalme/React.js-MovieApp-and-TMDB-API)
 > A fully responsive movie and web series discovery app using TMDB API.
 
 ### 🛡️ [Authentication System Template](https://github.com/abhishekkalme/secure-auth-template)
