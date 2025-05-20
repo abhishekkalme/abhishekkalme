@@ -144,7 +144,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=abhishekkalme&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkalme&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 
 ## 🏆 GitHub Trophies
@@ -157,15 +161,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/abhishekkalme/abhishekkalme/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekkalme/abhishekkalme/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekkalme/abhishekkalme/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abhishekkalme/abhishekkalme/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
 
