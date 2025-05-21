@@ -6,14 +6,14 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abhi.kl ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/abhishek-kalme-289a7430a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Abhishek_kalme) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekkalme0@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abhi.kl ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kalme-289a7430a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Abhishek_kalme) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekkalme0@gmail.com) 
 
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=a&125 "  />
 </div>
 
 ###
@@ -32,101 +32,137 @@
 💬 Ask me about MERN stack, Cloudinary integrations, JWT auth, or scalable folder structures.<br>
 ⚡ Fun fact: I love organizing things – from my codebase to my workspace.
 
-
 ## 🌐 Socials:
+
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://www.linkedin.com/in/abhishek-kalme-289a7430a/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" /></a>
+  <a href="https://x.com/@Abhishek_kalme" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" /></a>
+   <a href="https://t.me/ur_abd" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram" /></a>
+   <a href="mailto:abhishekkalme0@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" /></a>
+  <a href="https://discordapp.com/users/YOUR_ID" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" /></a>
+    <a href="https://instagram.com/_abhi.kl " target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" /></a>
+    <a href="https://www.hackerrank.com/abhishekkalme0" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="HackerRank" /></a>
+  <a href="https://youtube.com/@YOUR_CHANNEL" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" /></a>
+  <a href="https://facebook.com/YOUR_USERNAME" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" /></a>
+ <a href="https://linktr.ee/YOUR_USERNAME" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="Linktree" /></a>
+ <a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" /></a>
 </div>
+
 
 # 💻 Tech Stack:
 <h3 align="left">🛠 Language and tools</h3>
 
-###
-
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-</div>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" height="40" width="52"  alt="HTML5 logo" />
+  </a>
 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" >
+    <img src="https://skillicons.dev/icons?i=css" height="40" width="52" alt="CSS3 logo" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40 width="52"" alt="Tailwind CSS logo" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" height="40" width="52" alt="JavaScript logo" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" width="52" alt="Node.js logo" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js logo" />
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" height="40" width="52" alt="React logo" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="40" width="52" alt="MongoDB logo" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" height="40"  width="52" alt="MySQL logo" />
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="52" alt="LinkedIn logo" />
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ps" height="40" width="52" alt="Adobe Photoshop logo" />
+  </a>
+  <a href="https://appwrite.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" width="52" alt="Appwrite logo" />
+  </a>
+  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=c" height="40" width="52" alt="C logo" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" width="52" alt="Bootstrap logo" />
+  </a>
+  <a href="https://discord.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord logo" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" height="40" width="52" alt="Express logo" />
+  </a>
+  <a href="https://figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=figma" height="40" width="52" alt="Figma logo" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=firebase" height="40" width="52" alt="Firebase logo" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=fastapi" height="40" width="52" alt="FastAPI logo" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" height="40" width="52" alt="Git logo" />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" height="40" width="52" alt="GitHub logo" />
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=gcp" height="40" width="52" alt="Google Cloud logo" />
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=idea" height="40" width="52" alt="IntelliJ IDEA logo" />
+  </a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=netlify" height="40" width="52" alt="Netlify logo" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postman" height="40" width="52" alt="Postman logo" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=py" height="40" width="52" alt="Python logo" />
+  </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=redux" height="40" width="52" alt="Redux logo" />
+  </a>
+  <a href="https://stackoverflow.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" width="52" alt="Stack Overflow logo" />
+  </a>
+  <a href="https://twitter.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" width="52" alt="Twitter logo" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" height="40" width="52" alt="TypeScript logo" />
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vite" height="40" width="52" alt="Vite logo" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=visualstudio" height="40" width="52" alt="Visual Studio logo" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vscode" height="40" width="52" alt="VSCode logo" />
+  </a>
+  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="Android logo" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="C++ logo" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="52" alt="Windows logo" />
+  </a>
+</div>
 
 ## 🚀 Featured Projects:
 
