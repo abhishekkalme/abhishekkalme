@@ -20,7 +20,7 @@
 
 <h1 align="center">hey there 👋</h1>
 
-# 💫 About Me:
+# 🔰 About Me:
 🚀 Passionate about building full-stack web applications and creating digital tools that make a difference.<br>
 🎓 Currently pursuing B.Tech in Computer Science.<br>
 💡 Always open to learning, collaborating, and tackling new challenges.
