@@ -32,7 +32,7 @@
 💬 Ask me about MERN stack, Cloudinary integrations, JWT auth, or scalable folder structures.<br>
 ⚡ Fun fact: I love organizing things – from my codebase to my workspace.
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/abhishek-kalme-289a7430a/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" /></a>
