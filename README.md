@@ -164,7 +164,7 @@
   </a>
 </div>
 
-## 🚀 Featured Projects:
+# 🚀 Featured Projects:
 
 ### 📘 [LMS](https://github.com/abhishekkalme/jit-learning-system)
 > A complete academic platform for students to upload and access notes, built with MERN stack.
