@@ -187,10 +187,10 @@
 </picture>
 
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkalme&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
