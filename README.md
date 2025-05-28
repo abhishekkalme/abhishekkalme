@@ -193,5 +193,4 @@
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-[![](https://visitcount.itsvg.in/api?id=abhishekkalme&icon=4&color=0)](https://visitcount.itsvg.in)
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
