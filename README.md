@@ -166,7 +166,7 @@
 
 # 🚀 Featured Projects:
 
-### 📘 [LMS](https://github.com/abhishekkalme/jit-learning-system)
+### 📘 [LMS-MERN](https://github.com/abhishekkalme/LMS-MERN)
 > A complete academic platform for students to upload and access notes, built with MERN stack.
 
 ### 🎬 [TMDB Movie App](https://github.com/abhishekkalme/React.js-MovieApp-and-TMDB-API)
