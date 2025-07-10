@@ -44,7 +44,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/abhishek-kalme-289a7430a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
   <a href="https://x.com/Abhishek_kalme" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
-  <a href="https://t.me/ur_abd" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" width="40" /></a>
+  <a href="https://t.me/ur_abd" target="_blank"><img src="https://skills-icons.vercel.app/api/icons?i=telegram" width="40" /></a>
   <a href="mailto:abhishekkalme0@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
   <a href="https://discordapp.com/users/1064220243251171509" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
   <a href="https://instagram.com/_abhi.kl" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
@@ -69,8 +69,8 @@
 ### 🎬 [TMDB Movie App](https://github.com/abhishekkalme/React.js-MovieApp-and-TMDB-API)
 > A responsive movie & web series discovery app powered by the TMDB API.
 
-### 🛡️ [Secure Auth Template](https://github.com/abhishekkalme/secure-auth-template)
-> A production-grade authentication boilerplate with JWT, refresh tokens & protected routes.
+### 🎯 [TaskFlow](https://github.com/abhishekkalme/TaskFlow-Modern-Todo-Application)
+> A adavnce Todo application built with React and TypeScript.
 
 ---
 
