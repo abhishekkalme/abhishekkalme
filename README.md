@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" width="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NqaDJ6amd1a21kdnZubGYzamkwdTJ1Y3FsdTZzc2RsOXpjM3A4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xxwVSBPGOqDZcbG9Bh/giphy.gif" />
+  <img height="150" width="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NqaDJ6amd1a21kdnZubGYzamkwdTJ1Y3FsdTZzc2RsOXpjM3A4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xxwVSBPGOqDZcbG9Bh/giphy.gif" alt="Abhishek Kalme" />
 </div>
 
 ---
@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abhishekkalme.readme" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abhishekkalme.readme" alt="Visitor Badge"/>
 </div>
 
 ---
@@ -28,14 +28,28 @@
 - 🚀 Passionate about building impactful digital solutions
 - 🧠 Always eager to learn, solve problems, and share knowledge
 - 💡 Currently exploring **Next.js**, **TypeScript**, and **System Design**
-- 🔧 Working on: `LMS – an academic platform for students and teachers`
-- 🤝 Open to collaboration in MERN stack, React, and backend optimization
+- 🔧 Currently contributing to **open-source projects** and collaborative developer communities
+- 🤝 Open to collaborations in MERN stack, React, and backend optimization
 
 ## 🗣️ Ask Me About
 - MERN Stack · JWT Auth · Cloudinary · REST APIs · Scalable Project Structure
 
 ## ⚡ Fun Fact
 > I love organizing things — from my codebase to my workspace 🧩
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+![Postman](https://img.shields.io/badge/Postman%20Student%20Expert-F26B3A?style=for-the-badge&logo=postman&logoColor=white)
+![Infosys C](https://img.shields.io/badge/Infosys%20C%20Language-007396?style=for-the-badge&logo=c&logoColor=white)
+![Infosys C++](https://img.shields.io/badge/Infosys%20C++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
+![Java DSA](https://img.shields.io/badge/Java%20%7C%20DSA%20Certified-007396?style=for-the-badge&logo=java&logoColor=white)
+![Udemy Web Dev](https://img.shields.io/badge/Udemy%20Web%20Dev%20Bootcamp-EC5252?style=for-the-badge&logo=udemy&logoColor=white)
+
+</div>
 
 ---
 
@@ -70,10 +84,10 @@
 > A responsive movie & web series discovery app powered by the TMDB API.
 
 ### 🎯 [TaskFlow](https://github.com/abhishekkalme/TaskFlow-Modern-Todo-Application)
-> A adavnce Todo application built with React and TypeScript.
+> An advanced Todo application built with React and TypeScript.
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -82,6 +96,14 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=abhishekkalme&theme=highcontrast&hide_border=false" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkalme&theme=highcontrast&hide_border=false&layout=compact" />
+</div>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhishekkalme&theme=react-dark&hide_border=true" />
 </div>
 
 ---
@@ -99,13 +121,21 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkalme&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkalme&theme=onedark&margin-w=15&margin-h=15" />
 </div>
 
 ---
 
-## ✍️ Random Dev Quote
+## ⏱ WakaTime Weekly Stats
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
+<!-- Replace `yourusername` with your actual WakaTime username 
+<!-- To activate, sign up at https://wakatime.com and connect your GitHub -->
+
+<!--START_SECTION:waka-->
+<!-- ```text
+🕓 Programming Time Breakdown (last 7 days)
+JavaScript   10 hrs 20 mins ██████████▎░░░░░░░░░░░░░
+TypeScript    3 hrs 12 mins ███▎░░░░░░░░░░░░░░░░░░░░
+HTML          1 hr 45 mins █▎░░░░░░░░░░░░░░░░░░░░░░
+
+-->
