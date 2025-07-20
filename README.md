@@ -2,18 +2,15 @@
   <img height="150" width="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NqaDJ6amd1a21kdnZubGYzamkwdTJ1Y3FsdTZzc2RsOXpjM3A4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xxwVSBPGOqDZcbG9Bh/giphy.gif" alt="Abhishek Kalme" />
 </div>
 
----
+<h1 align="center">Hi 👋, I'm Abhishek Kalme</h1>
+<h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast | Lifelong Learner</h3>
 
 <div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abhi.kl) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kalme-289a7430a) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abhishek_kalme) 
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekkalme0@gmail.com)
-
+  <a href="https://instagram.com/_abhi.kl"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-kalme-289a7430a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Abhishek_kalme"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
+  <a href="mailto:abhishekkalme0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </div>
-
----
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abhishekkalme.readme" alt="Visitor Badge"/>
@@ -21,18 +18,81 @@
 
 ---
 
-<h1 align="center">Hey there 👋</h1>
-
 ## 🔰 About Me
-- 🎓 B.Tech CSE student | Full Stack Developer
-- 🚀 Passionate about building impactful digital solutions
-- 🧠 Always eager to learn, solve problems, and share knowledge
-- 💡 Currently exploring **Next.js**, **TypeScript**, and **System Design**
-- 🔧 Currently contributing to **open-source projects** and collaborative developer communities
-- 🤝 Open to collaborations in MERN stack, React, and backend optimization
+- 🎓 B.Tech CSE student | Full Stack Developer  
+- 🚀 Passionate about building impactful digital solutions  
+- 🧠 Lifelong learner focused on clean code & scalable systems  
+- 💡 Currently exploring **Next.js**, **TypeScript**, and **System Design**  
+- 🔧 Actively contributing to **open-source projects** and dev communities  
+- 🤝 Open to collaborations in MERN stack, React, and backend optimization  
 
-## 🗣️ Ask Me About
-- MERN Stack · JWT Auth · Cloudinary · REST APIs · Scalable Project Structure
+---
+
+## 🧩 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,redux,vite,py,fastapi,java,cpp,git,github,vercel,vscode,postman,firebase,gcp,figma,netlify,ps,appwrite,android" />
+</p>
+
+---
+
+## 💼 Portfolio
+Check out my portfolio website:  
+🔗 [https://abhishekkalme.vercel.app](https://abhishekkalme.vercel.app)
+
+---
+
+## 🏆 Achievements
+- 🏆 Selected contributor in **GSSoC’25**
+- 🎯 **Top Contributor** in multiple OSS projects during GSSoC
+- 💻 Built & deployed a full MERN **LMS** with Cloudinary & role-based auth
+- 🧠 Mentored peers in JavaScript and React fundamentals
+- 📚 Completed **20+ Projects** in React, Node.js, TypeScript, and APIs
+- ✅ **Postman API Student Expert** Certified  
+- ✅ **Infosys Springboard** – C & C++  
+- ✅ **Universal Informatics** – Java & Data Structures  
+- ✅ **Udemy** – Web Development Bootcamp  
+
+---
+
+## ✍️ Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [📘 Deep Dive: React Context + JWT Auth](https://your-blog.com/react-context-jwt)
+- [🛠️ MERN Upload System with Cloudinary](https://your-blog.com/mern-cloudinary)
+- [📚 Syntax Analysis & Translation in Compilers](https://your-blog.com/compiler-syntax-analysis)
+- 📝 [How I Built a Fullstack LMS with MERN & Cloudinary](https://dev.to/your-username/lms-with-mern-stack-4abc)
+- 🚀 [Getting Started with TMDB API & React](https://dev.to/your-username/tmdb-api-react-intro-4def)
+- 🔐 [JWT Authentication Explained with Code](https://dev.to/your-username/jwt-auth-node-react-4ghi)
+<!-- BLOG-POST-LIST:END -->
+
+> 💡 Set up blog post sync with [GitHub Action](https://github.com/gautamkrishnar/blog-post-workflow)
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhishek-kalme-289a7430a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="https://x.com/Abhishek_kalme" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
+  <a href="https://t.me/ur_abd" target="_blank"><img src="https://skills-icons.vercel.app/api/icons?i=telegram" width="40" /></a>
+  <a href="mailto:abhishekkalme0@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+  <a href="https://discordapp.com/users/1064220243251171509" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
+  <a href="https://instagram.com/_abhi.kl" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
+  <a href="https://www.hackerrank.com/abhishekkalme0" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" width="40" /></a>
+</div>
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishekkalme&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkalme&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkalme&layout=compact&theme=radical" />
+</p>
+
+---
 
 ## ⚡ Fun Fact
 > I love organizing things — from my codebase to my workspace 🧩
@@ -53,89 +113,15 @@
 
 ---
 
-## 🌐 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/abhishek-kalme-289a7430a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="https://x.com/Abhishek_kalme" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
-  <a href="https://t.me/ur_abd" target="_blank"><img src="https://skills-icons.vercel.app/api/icons?i=telegram" width="40" /></a>
-  <a href="mailto:abhishekkalme0@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
-  <a href="https://discordapp.com/users/1064220243251171509" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
-  <a href="https://instagram.com/_abhi.kl" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
-  <a href="https://www.hackerrank.com/abhishekkalme0" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" width="40" /></a>
-</div>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,redux,vite,py,fastapi,git,github,postman,firebase,gcp,vscode,idea,figma,netlify,ps,appwrite,c,cpp,android" />
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 ### 📘 [LMS-MERN](https://github.com/abhishekkalme/LMS-MERN)
-> A comprehensive academic platform for managing and sharing notes and resources.
+> Academic platform with user auth, notes sharing & file uploads
 
 ### 🎬 [TMDB Movie App](https://github.com/abhishekkalme/React.js-MovieApp-and-TMDB-API)
-> A responsive movie & web series discovery app powered by the TMDB API.
+> Discover trending movies & TV shows using TMDB API
 
 ### 🎯 [TaskFlow](https://github.com/abhishekkalme/TaskFlow-Modern-Todo-Application)
-> An advanced Todo application built with React and TypeScript.
+> A sleek, fast Todo app built with React + TypeScript
 
 ---
-<!--
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkalme&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abhishekkalme&theme=highcontrast&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkalme&theme=highcontrast&hide_border=false&layout=compact" />
-</div>
-
----
-
-## 📈 GitHub Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhishekkalme&theme=react-dark&hide_border=true" />
-</div>
-
----
-
-## 🐍 GitHub Contributions Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkalme&theme=onedark&margin-w=15&margin-h=15" />
-</div>
-
----
-
-## ⏱ WakaTime Weekly Stats
-
-<!-- Replace `yourusername` with your actual WakaTime username 
-<!-- To activate, sign up at https://wakatime.com and connect your GitHub -->
-
-<!--START_SECTION:waka-->
-<!-- ```text
-🕓 Programming Time Breakdown (last 7 days)
-JavaScript   10 hrs 20 mins ██████████▎░░░░░░░░░░░░░
-TypeScript    3 hrs 12 mins ███▎░░░░░░░░░░░░░░░░░░░░
-HTML          1 hr 45 mins █▎░░░░░░░░░░░░░░░░░░░░░░
-
--->
