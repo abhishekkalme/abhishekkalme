@@ -84,7 +84,7 @@ Check out my portfolio website:
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishekkalme&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishekkalme&show_icons=true&rank_icon=github&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkalme&theme=radical" />
 </p>
 
