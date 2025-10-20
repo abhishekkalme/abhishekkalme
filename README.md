@@ -36,9 +36,8 @@
 
 ---
 ## 💼 Portfolio
-[![Portfolio](https://img.shields.io/badge/-Portfolio-%230077B5?style=plastic&logo=vercel&logoColor=white&labelColor=black)](https://abhishek-portfolio25.vercel.app)
-[<img src="https://www.shutterstock.com/image-vector/resume-circle-icon-260nw-753672466.jpg" height="40">](https://your-resume-link.com)
-
+- 🌐 [Portfolio Website](https://abhishek-portfolio25.vercel.app)
+- 📄 [Resume](https://drive.google.com/file/d/14Alpiuk4F7fX7aGs4VEiEpAJ61zAlj3p/view?usp=drive_link)
 
 
 ---
