@@ -37,7 +37,7 @@
 ---
 ## 💼 Portfolio
 - 🌐 [Portfolio Website](https://abhishek-portfolio25.vercel.app)
-- 📄 [Resume](https://drive.google.com/file/d/14Alpiuk4F7fX7aGs4VEiEpAJ61zAlj3p/view?usp=drive_link)
+- 📄 [Resume](https://drive.google.com/file/d/1W8ZH1qscY1-0mkJYH7MzNv9zxvzD4UyA/view?usp=sharing)
 
 
 ---
