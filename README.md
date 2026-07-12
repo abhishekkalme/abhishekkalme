@@ -112,7 +112,7 @@ I'm a passionate full-stack developer and B.Tech CSE student committed to buildi
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/abhishekkalme/React.js-MovieApp-and-TMDB-API)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://reactjs.org)
-[![API](https://img.shields.io/badge/TMDB%20API-01D277?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+)](https://www.themoviedb.org/settings/api)
+[![TMDB API](https://img.shields.io/badge/TMDB%20API-01D277?logo=themoviedatabase&logoColor=white)](https://www.themoviedb.org/settings/api)
 
 ---
 
