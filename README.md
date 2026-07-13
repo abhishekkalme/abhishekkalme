@@ -78,9 +78,15 @@ A type-safe todo app with full CRUD, categorization, and local persistence, opti
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishekkalme&show_icons=true&theme=radical&hide_border=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkalme&layout=compact&theme=radical&hide_border=true"/>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=abhishekkalme&theme=radical&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekkalme&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!--
+Note: the stats/top-langs images above are served by a shared, free-tier Vercel
+instance (github-readme-stats.vercel.app) used by millions of GitHub profiles.
+It can occasionally rate-limit or show broken images. If this happens often,
+consider self-hosting your own instance:
+https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+-->
 
 </div>
 
