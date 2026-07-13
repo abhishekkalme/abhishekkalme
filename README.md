@@ -1,201 +1,108 @@
-# Abhishek Kalme
-
 <div align="center">
-  <img height="150" width="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NqaDJ6amd1a21kdnZubGYzamkwdTJ1Y3FsdTZzc2RsOXpjM3A4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xxwVSBPGOqDZcbG9Bh/giphy.gif" alt="Abhishek Kalme" />
 
-  ### 🚀 Full Stack Developer | Open Source Contributor | Tech Enthusiast
-  
-  *Building scalable web solutions with modern technologies*
+# Hi 👋, I'm Abhishek Kalme
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/abhishek-kalme-289a7430a)
-  [![Twitter](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/Abhishek_kalme)
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abhishekkalme0@gmail.com)
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/1064220243251171509)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/_abhi.kl)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NqaDJ6amd1a21kdnZubGYzamkwdTJ1Y3FsdTZzc2RsOXpjM3A4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xxwVSBPGOqDZcbG9Bh/giphy.gif" width="150" alt="Abhishek Kalme"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+%7C+TypeScript+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=abhishekkalme&label=Profile+Views&color=0e75b6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/abhishekkalme?style=flat-square&label=Followers)
+![Stars](https://img.shields.io/github/stars/abhishekkalme?affiliations=OWNER&style=flat-square&label=Stars)
+
+[Portfolio](https://abhishek-portfolio25.vercel.app) • [LinkedIn](https://www.linkedin.com/in/abhishek-kalme-289a7430a) • [X](https://x.com/Abhishek_kalme) • [Email](mailto:abhishekkalme0@gmail.com) • [Discord](https://discordapp.com/users/1064220243251171509)
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a passionate full-stack developer and B.Tech CSE student committed to building impactful digital solutions. With expertise in the MERN stack, I focus on writing clean, maintainable code and designing scalable systems. Currently, I'm exploring advanced concepts in **Next.js**, **TypeScript**, and **System Design**.
+I'm a B.Tech CSE student and full-stack developer focused on the MERN stack, currently deepening my skills in **Next.js**, **TypeScript**, and **system design**. I like building things end-to-end — from API design to deployment — and learning the "why" behind scalable architecture, not just the "how."
 
-- 🎓 **Education**: B.Tech in Computer Science & Engineering
-- 🔗 **Open Source**: Active GSSoC'25 contributor
-- 💡 **Interests**: MERN stack, system design, API development, and mentoring
-- 🎯 **Goal**: Create solutions that make a real-world impact
+- 🎓 B.Tech in Computer Science & Engineering
+- 🌱 GSSoC'25 alum — contributed to open-source projects as part of GirlScript Summer of Code 2025
+- 🛠️ Shipped 20+ projects across React, Node.js, and TypeScript
+- 🤝 Open to internships, freelance work, and open-source collaboration
+- ⚡ Fun fact: I debug with ☕ coffee and `console.log()` — the timeless combo
+
+## Currently Working On
+
+- 🔐 Implementing OAuth 2.0 and role-based access control in personal projects
+- 🏗️ Studying system design fundamentals — load balancing, caching, database scaling
+- ⚙️ Improving the LMS-MERN project with better file handling and access control
+- 🐳 Learning Docker, Redis, and PostgreSQL
+- 📘 Writing up notes on compiler design as I work through the coursework
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
+## Tech Stack
 
 **Frontend**
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)](https://reactjs.org)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square)](https://nextjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)](https://tailwindcss.com)
-[![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat-square)](https://redux.js.org)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css)
 
 **Backend**
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org)
-[![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square)](https://expressjs.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)](https://www.mongodb.com)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)](https://fastapi.tiangolo.com)
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
 
-**Languages & Tools**
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)](https://www.python.org)
-[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square)](https://www.java.com)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat-square)](https://cplusplus.com)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)](https://git-scm.com)
+**Database**
+![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,supabase)
 
-**Cloud & Deployment**
-[![Firebase](https://img.shields.io/badge/Firebase-FFA500?logo=firebase&logoColor=white&style=flat-square)](https://firebase.google.com)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square)](https://cloud.google.com)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square)](https://vercel.com)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)](https://netlify.com)
-[![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?logo=appwrite&logoColor=white&style=flat-square)](https://appwrite.io)
-
-</div>
+**Tools & Deployment**
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify)
 
 ---
 
-## 🏆 Achievements & Certifications
-
-<table>
-<tr>
-<td>
-
-### Recognition
-- 🏆 **GSSoC'25** - Selected Contributor
-- ⭐ **Top Contributor** in multiple OSS projects
-- 🎯 **20+ Projects** deployed across React, Node.js & TypeScript
-
-</td>
-<td>
-
-### Certifications
-- ✅ Postman API Student Expert
-- ✅ Infosys Springboard - C & C++
-- ✅ Universal Informatics - Java & DSA
-- ✅ Udemy Web Development Bootcamp
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 📘 [LMS-MERN](https://github.com/abhishekkalme/LMS-MERN)
-*Comprehensive Learning Management System built with MERN stack*
+A full-featured Learning Management System with authentication, role-based access control, notes sharing, and file uploads via Cloudinary. Built mobile-first with Tailwind CSS.
 
-- 🔐 **Features**: User authentication, role-based access control, notes sharing, file uploads with Cloudinary
-- 🛠️ **Tech Stack**: React, Node.js, Express, MongoDB, Cloudinary
-- 📱 **Responsive Design**: Mobile-first approach with Tailwind CSS
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/abhishekkalme/LMS-MERN)
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://reactjs.org)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org)
-
----
+`React` `Node.js` `Express` `MongoDB` `Cloudinary`
 
 ### 🎬 [TMDB Movie App](https://github.com/abhishekkalme/React.js-MovieApp-and-TMDB-API)
-*Discover trending movies and TV shows with real-time data*
+A movie discovery app pulling live data from the TMDB API — search, genre filtering, detailed info pages, and a smooth, responsive UI.
 
-- 🎯 **Features**: Search functionality, genre filtering, detailed movie information, user ratings
-- 🎨 **Design**: Modern UI with smooth animations and responsive layout
-- 🔌 **Integration**: TMDB API for real-world data consumption
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/abhishekkalme/React.js-MovieApp-and-TMDB-API)
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://reactjs.org)
-[![TMDB API](https://img.shields.io/badge/TMDB%20API-01D277?logo=themoviedatabase&logoColor=white)](https://www.themoviedb.org/settings/api)
-
----
+`React` `TMDB API`
 
 ### ✅ [TaskFlow](https://github.com/abhishekkalme/TaskFlow-Modern-Todo-Application)
-*Modern, performant todo application with type safety*
+A type-safe todo app with full CRUD, categorization, and local persistence, optimized for fast rendering with React hooks.
 
-- ⚡ **Performance**: Optimized rendering with React hooks
-- 🎯 **Features**: Create, edit, delete, and categorize tasks with persistence
-- 📘 **Tech**: React, TypeScript, Local Storage, Tailwind CSS
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/abhishekkalme/TaskFlow-Modern-Todo-Application)
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://reactjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+`React` `TypeScript` `Tailwind CSS`
 
 ---
 
-## 📚 Currently Working On
-
-- 🔐 **Advanced Authentication**: Implementing OAuth 2.0 and role-based authorization systems
-- 🎬 **Movie App Enhancement**: Adding trailers, watchlist functionality, and user reviews
-- 📖 **Technical Writing**: In-depth articles on Compiler Design and System Architecture
-- 🏗️ **System Design**: Building knowledge in scalable distributed systems
-
----
-
-## 📖 Latest Blog Posts
-
-> Coming soon! Check back for detailed technical insights on:
-> - React Context API + JWT Authentication patterns
-> - MERN stack best practices with Cloudinary integration
-> - Compiler design fundamentals
-> - Building scalable fullstack applications
-
-[View on Dev.to →](https://dev.to)
-
----
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-[![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekkalme&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/abhishekkalme)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishekkalme&show_icons=true&theme=radical&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkalme&layout=compact&theme=radical&hide_border=true"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishekkalme&theme=radical&hide_border=true)](https://github.com/abhishekkalme)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=abhishekkalme&theme=radical&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkalme&layout=compact&theme=radical&hide_border=true)](https://github.com/abhishekkalme)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekkalme&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## Blog
 
-I'm always interested in collaborating on interesting projects, contributing to open source, and connecting with fellow developers. Feel free to reach out!
+I'm working on write-ups covering React Context + JWT auth patterns, MERN best practices with Cloudinary, and compiler design fundamentals. Nothing published yet — check back soon, or follow along on [Dev.to](https://dev.to).
+
+---
+
+## Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kalme-289a7430a)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Abhishek_kalme)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Abhishek_kalme)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekkalme0@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1064220243251171509)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/abhishekkalme0)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ur_abd)
 
-</div>
-
----
-
-## 💡 Quick Links
-
-- 🌐 **[Portfolio Website](https://abhishek-portfolio25.vercel.app)**
-- 📄 **[Resume](https://drive.google.com/file/d/1W8ZH1qscY1-0mkJYH7MzNv9zxvzD4UyA/view?usp=sharing)**
-- 🐙 **[GitHub Profile](https://github.com/abhishekkalme)**
-
----
-
-<div align="center">
-
-### 🎵 Fun Fact
-*I debug with **☕ coffee** and **console.log()** – the timeless developer combo*
-
-**Visitor Count** 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abhishekkalme.readme&style=flat-square)
+**[Resume](https://drive.google.com/file/d/1W8ZH1qscY1-0mkJYH7MzNv9zxvzD4UyA/view?usp=sharing) · [Portfolio](https://abhishek-portfolio25.vercel.app) · [GitHub](https://github.com/abhishekkalme)**
 
 </div>
 
@@ -203,6 +110,6 @@ I'm always interested in collaborating on interesting projects, contributing to 
 
 <div align="center">
 
-⭐ **If you found this profile helpful, please consider giving it a star!** ⭐
+⭐ **If this profile's useful to you, a star on my repos is always appreciated!**
 
 </div>
