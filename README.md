@@ -16,27 +16,25 @@
 
 ---
 
-## About Me
+## 👤 About Me
 
-I'm a B.Tech CSE student and full-stack developer focused on the MERN stack, currently deepening my skills in **Next.js**, **TypeScript**, and **system design**. I like building things end-to-end — from API design to deployment — and learning the "why" behind scalable architecture, not just the "how."
+I'm a B.Tech CSE student and full-stack developer focused on the MERN stack, currently deepening my skills in **Next.js**, **TypeScript**, **system design**, and **AI/LLM integrations**. I like building things end-to-end — from API design to deployment — and learning the "why" behind scalable architecture, not just the "how."
 
-- 🎓 B.Tech in Computer Science & Engineering
-- 🌱 GSSoC'25 alum — contributed to open-source projects as part of GirlScript Summer of Code 2025
-- 🛠️ Shipped 20+ projects across React, Node.js, and TypeScript
-- 🤝 Open to internships, freelance work, and open-source collaboration
-- ⚡ Fun fact: I debug with ☕ coffee and `console.log()` — the timeless combo
+- B.Tech in Computer Science & Engineering
+- GSSoC'25 alum — contributed to open-source projects as part of GirlScript Summer of Code 2025
+- Shipped 20+ projects across React, Node.js, TypeScript, and AI-powered applications
+- Open to internships, freelance work, and open-source collaboration
 
-## Currently Working On
+## 🏗️ Currently Working On
 
-- 🔐 Implementing OAuth 2.0 and role-based access control in personal projects
-- 🏗️ Studying system design fundamentals — load balancing, caching, database scaling
-- ⚙️ Improving the LMS-MERN project with better file handling and access control
-- 🐳 Learning Docker, Redis, and PostgreSQL
-- 📘 Writing up notes on compiler design as I work through the coursework
+- Revisiting JavaScript and TypeScript fundamentals to sharpen the basics
+- Going deeper into Docker, PostgreSQL, Redis, and AWS
+- Practicing DSA — building consistency with problem-solving
+- Studying system design fundamentals — load balancing, caching, database scaling
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 **Frontend**
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css)
@@ -52,33 +50,36 @@ I'm a B.Tech CSE student and full-stack developer focused on the MERN stack, cur
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 📘 [LMS-MERN](https://github.com/abhishekkalme/LMS-MERN)
+### [MindCare AI — Mental Wellness Support Agent](https://github.com/abhishekkalme/Mental-Wellness-Support-Agent)
+AI-guided mental wellness platform offering a safe space for emotional support, journaling, and holistic self-care, built with a strong focus on user privacy.
+
+`React` `TypeScript` `Node.js` `AI/LLM`
+
+### [LMS-MERN](https://github.com/abhishekkalme/LMS-MERN)
 A full-featured Learning Management System with authentication, role-based access control, notes sharing, and file uploads via Cloudinary. Built mobile-first with Tailwind CSS.
 
 `React` `Node.js` `Express` `MongoDB` `Cloudinary`
 
-### 🎬 [TMDB Movie App](https://github.com/abhishekkalme/React.js-MovieApp-and-TMDB-API)
+### [TMDB Movie App](https://github.com/abhishekkalme/React.js-MovieApp-and-TMDB-API)
 A movie discovery app pulling live data from the TMDB API — search, genre filtering, detailed info pages, and a smooth, responsive UI.
 
 `React` `TMDB API`
 
-### ✅ [Rate-Limiter](https://github.com/abhishekkalme/Redis-Based-API-Rate-Limiter)
-Built a production-grade rate-limiting system using Express and Redis to protect APIs from abuse.
+### [Rate-Limiter](https://github.com/abhishekkalme/Redis-Based-API-Rate-Limiter)
+Built a production-grade rate-limiting system using Express and Redis to protect APIs from abuse, handling IP-based throttling and Redis-backed distributed counters.
 
-`React` `TypeScript` `Tailwind CSS`
+`TypeScript` `Express` `Redis`
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishekkalme&show_icons=true&theme=radical&hide_border=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkalme&layout=compact&theme=radical&hide_border=true"/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekkalme&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 Note: the stats/top-langs images above are served by a shared, free-tier Vercel
@@ -92,13 +93,7 @@ https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
 
 ---
 
-## Blog
-
-I'm working on write-ups covering React Context + JWT auth patterns, MERN best practices with Cloudinary, and compiler design fundamentals. Nothing published yet — check back soon, or follow along on [Dev.to](https://dev.to).
-
----
-
-## Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
